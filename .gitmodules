@@ -1,0 +1,3 @@
+[submodule "pyraf"]
+	path = pyraf
+	url = https://github.com/LAPIS-2026/pyraf.git
